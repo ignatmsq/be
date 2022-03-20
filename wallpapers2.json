@@ -1,17 +1,17 @@
 [
     {
         "id": "01",
-        "path":"https://raw.githubusercontent.com/ignatmsq/3dbe/main/01",
-        "path_preview":"https://raw.githubusercontent.com/ignatmsq/3dbe/main/01/preview.png"
+        "path":"https://raw.githubusercontent.com/ignatmsq/be/main/01",
+        "path_preview":"https://raw.githubusercontent.com/ignatmsq/be/main/01/preview.png"
     },
       {
         "id": "02",
-        "path":"https://raw.githubusercontent.com/ignatmsq/3dbe/main/02",
-        "path_preview":"https://raw.githubusercontent.com/ignatmsq/3dbe/main/02/preview.png"
+        "path":"https://raw.githubusercontent.com/ignatmsq/be/main/02",
+        "path_preview":"https://raw.githubusercontent.com/ignatmsq/be/main/02/preview.png"
     },
       {
         "id": "03",
-        "path":"https://raw.githubusercontent.com/ignatmsq/3dbe/main/03",
-        "path_preview":"https://raw.githubusercontent.com/ignatmsq/3dbe/main/03/preview.png"
+        "path":"https://raw.githubusercontent.com/ignatmsq/be/main/03",
+        "path_preview":"https://raw.githubusercontent.com/ignatmsq/be/main/03/preview.png"
     }
 ]
