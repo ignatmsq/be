@@ -4,47 +4,47 @@
         "video_path":"https://raw.githubusercontent.com/ignatmsq/be/main/10/video.mp4",
         "l1_path":"https://raw.githubusercontent.com/ignatmsq/be/main/10/layer1.png",
         "path_preview":"https://raw.githubusercontent.com/ignatmsq/be/main/10/preview.png",
-        "vx1":1.35,
-        "vy1":1.35,
-        "vx2":1.5,
-        "vy2":1.5,
-        "vxv":1.2,
-        "vyv":1.2
+        "vx1":0.35,
+        "vy1":0.35,
+        "vx2":0.5,
+        "vy2":0.5,
+        "vxv":0.2,
+        "vyv":0.2
     },
     {
         "id":"11",
         "video_path":"https://raw.githubusercontent.com/ignatmsq/be/main/11/video.mp4",
         "l1_path":"https://raw.githubusercontent.com/ignatmsq/be/main/11/layer1.png",
         "path_preview":"https://raw.githubusercontent.com/ignatmsq/be/main/11/preview.png",
-        "vx1":1.35,
-        "vy1":1.35,
-        "vx2":1.5,
-        "vy2":1.5,
-        "vxv":1.2,
-        "vyv":1.2
+        "vx1":0.35,
+        "vy1":0.35,
+        "vx2":0.5,
+        "vy2":0.5,
+        "vxv":0.2,
+        "vyv":0.2
     },
     {
         "id":"12",
         "video_path":"https://raw.githubusercontent.com/ignatmsq/be/main/12/video.mp4",
         "l1_path":"https://raw.githubusercontent.com/ignatmsq/be/main/12/layer1.png",
         "path_preview":"https://raw.githubusercontent.com/ignatmsq/be/main/12/preview.png",
-        "vx1":1.35,
-        "vy1":1.35,
-        "vx2":1.5,
-        "vy2":1.5,
-        "vxv":1.2,
-        "vyv":1.2
+        "vx1":0.35,
+        "vy1":0.35,
+        "vx2":0.5,
+        "vy2":0.5,
+        "vxv":0.2,
+        "vyv":0.2
     },
     {
         "id":"13",
         "video_path":"https://raw.githubusercontent.com/ignatmsq/be/main/13/video.mp4",
         "l1_path":"https://raw.githubusercontent.com/ignatmsq/be/main/13/layer1.png",
         "path_preview":"https://raw.githubusercontent.com/ignatmsq/be/main/13/preview.png",
-        "vx1":1.35,
-        "vy1":1.35,
-        "vx2":1.5,
-        "vy2":1.5,
-        "vxv":1.2,
-        "vyv":1.2
+        "vx1":0.35,
+        "vy1":0.35,
+        "vx2":0.5,
+        "vy2":0.5,
+        "vxv":0.2,
+        "vyv":0.2
     }
 ]
